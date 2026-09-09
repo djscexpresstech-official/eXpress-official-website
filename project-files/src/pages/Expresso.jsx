@@ -10,6 +10,17 @@ const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', '
 
 const magazineArchive = [
   {
+    id: 'aug-2026',
+    title: 'eXpresso August 2026',
+    month: 'Aug 2026',
+    folderName: 'aug',
+    description: 'Fresh insights and stories from our August 2026 collection.',
+    tag: 'Archived',
+    available: true,
+    pagesCount: 12,
+    pagePrefix: 'eXpresso August_page'
+  },
+  {
     id: 'june-2026',
     title: 'eXpresso June 2026',
     month: 'June 2026',
