@@ -1,7 +1,34 @@
 const events = [
   {
-    id: "eXpl-2026",
+    id: "aryavarta-5",
     number: "01",
+    title: "Aryavarta 5.0",
+    tag: "Flagship · Quiz & Debate · Mahabharata",
+    description:
+      "Aryavarta 5.0 was a flagship event that took participants on an epic journey through the world of the Mahabharata. This year's edition transformed our campus into a battleground of ideas, as departments competed in intense quizzes and electrifying debates inspired by the great epic. From the wisdom of the Pandavas to the strategies of the Kauravas, participants explored the timeless lessons and moral dilemmas presented in this ancient Indian text.",
+    images: ["/images/a5-1.jpg", "/images/a5-2.jpg", "/images/a5-3.jpg"],
+  },
+  {
+    id: "invictus-02",
+    number: "02",
+    title: "Invictus 02",
+    tag: "Greek Mythology · Debate",
+    description:
+      "Invictus 02 was a Debate event on the theme of Greek Mythology. Participants engaged in thought-provoking discussions, exploring the complexities of ancient stories and their impact on modern society. The event encouraged critical thinking, effective communication, and a deeper understanding of mythology.",
+    images: ["/images/inv21.jpg", "/images/inv22.jpg", "/images/inv23.jpg"],
+  },
+  {
+    id: "invictus-01",
+    number: "03",
+    title: "Invictus 01",
+    tag: "World War · Debate",
+    description:
+      "Invictus 01 was a Debate event on the theme of World Wars. Participants engaged in thought-provoking discussions, exploring the complexities of historical events and their impact on society. The event encouraged critical thinking, effective communication, and a deeper understanding of history.",
+    images: ["/images/inv1.jpg", "/images/inv2.jpg", "/images/inv3.jpg"],
+  },
+  {
+    id: "eXpl-2026",
+    number: "04",
     title: "EXPL 2026",
     tag: "IPL themed · Commentary and Games",
     description:
@@ -10,7 +37,7 @@ const events = [
   },
   {
     id: "aryavarta-4",
-    number: "02",
+    number: "05",
     title: "Aryavarta 4.0",
     tag: "Flagship · Quiz & Debate",
     description:
@@ -19,7 +46,7 @@ const events = [
   },
   {
     id: "veritas",
-    number: "03",
+    number: "06",
     title: "Veritas",
     tag: "Mystery & Deduction",
     description:
@@ -28,7 +55,7 @@ const events = [
   },
   {
     id: "the-pilot",
-    number: "04",
+    number: "07",
     title: "The Pilot: Episode 1",
     tag: "Inter-college · Sitcom Special",
     description:
@@ -37,7 +64,7 @@ const events = [
   },
   {
     id: "illuminare",
-    number: "05",
+    number: "08",
     title: "illuminare",
     tag: "Creativity & Ideas",
     description:
@@ -46,7 +73,7 @@ const events = [
   },
   {
     id: "aryavarta-3",
-    number: "06",
+    number: "09",
     title: "Aryavarta 3.0",
     tag: "Flagship · Quiz & Debate",
     description:
@@ -55,7 +82,7 @@ const events = [
   },
   {
     id: "court-charades",
-    number: "07",
+    number: "10",
     title: "Court Charades",
     tag: "Mock Trial",
     description:
@@ -64,7 +91,7 @@ const events = [
   },
   {
     id: "plot-pursuit",
-    number: "08",
+    number: "11",
     title: "Plot Pursuit | Verse Voyage",
     tag: "Treasure Hunt & Storytelling",
     description:
@@ -73,7 +100,7 @@ const events = [
   },
   {
     id: "tick-tock-fall",
-    number: "09",
+    number: "12",
     title: "Tick Tock Fall",
     tag: "Balloon Debate",
     description:
@@ -82,7 +109,7 @@ const events = [
   },
   {
     id: "x-con",
-    number: "10",
+    number: "13",
     title: "X-CON",
     tag: "International MUN",
     description:
@@ -91,7 +118,7 @@ const events = [
   },
   {
     id: "aryavarta-2",
-    number: "11",
+    number: "14",
     title: "Aryavarta 2.0",
     tag: "Flagship · Quiz & Debate",
     description:
@@ -100,7 +127,7 @@ const events = [
   },
   {
     id: "aryavarta-1",
-    number: "12",
+    number: "15",
     title: "Aryavarta 1.0",
     tag: "Flagship · Quiz & Debate",
     description:
@@ -109,7 +136,7 @@ const events = [
   },
   {
     id: "chakravyuh",
-    number: "13",
+    number: "16",
     title: "Chakravyuh",
     tag: "Interdepartmental Quiz · 8th–9th Sept",
     description:
