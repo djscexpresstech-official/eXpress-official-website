@@ -17,7 +17,7 @@ const magazineArchive = [
     description: "Fresh insights and stories from our October 2026 collection.",
     tag: "Latest Edition",
     available: true,
-    pagesCount: 12,
+    pagesCount: 8,
     pagePrefix: "eXpresso October_page"
   },
   {
